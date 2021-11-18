@@ -1,9 +1,9 @@
 ## Know about me
 
 - 👋 Hi, I’m @amanmagar from Nepal
-- 👀 I’m interested in AI, Linux and the DevOps Culture
+- 👀 I’m interested in Linux and the DevOps Culture
 - 🌱 I’m currently learning about Linux
-- 🌱 I’m enrolled in the BTEC HND in ISMT
+- 🌱 I’m enrolled in the Bachelors in Computer Systems Engineering in ISMT
 - 💞️ I’m looking to collaborate on different things that interests me
 - 📫 You can reach me through Linkedin through [@amanmagar](https://www.linkedin.com/in/asm0011/).
 
