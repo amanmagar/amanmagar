@@ -7,11 +7,10 @@
 
 ### :man_technologist: About Me :
 
-
 - 👋 Hi, I’m @amanmagar from Nepal
 - 👀 I’m a DevSecOps practioner very much interested in system design and cloud technologies
-- 🌱 I’m learning about different tools in DevSecOps and Agile methodologies to incorporate in my organization
-- 🌱 I’m enrolled in the Bachelors in Computer Systems Engineering in ISMT
+- 🌱 I’m learning about different tools in DevSecOps and Agile methodologies
+- 🌱 I’m enrolled in the Bachelors in Computer Systems Engineering in University of Sunderland
 - 💞️ I’m looking to collaborate on different open-source technologies that interests me
 
 
@@ -35,6 +34,15 @@
 </div>
 
 ---
+### My Stats :
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amanmagar&theme=dark&count_private=true )](https://git.io/streak-stats)
+
+
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanmagar&show_icons=true&theme=radical&count_private=true)
+
+---
+### My Socials :
 
   <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/asm0011/">
@@ -42,6 +50,7 @@
   </a>
 </div>
 
+---
 
 
 <!---
