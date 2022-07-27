@@ -53,7 +53,7 @@
 ### :chart_with_upwards_trend: My Stats :
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amanmagar&theme=dark&count_private=true )](https://git.io/streak-stats)
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=amanmagar&theme=tokyonight&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=amanmagar&theme=tokyonight&show_icons=true" />
 
 
 
