@@ -11,7 +11,6 @@
 - 👋 Hi, I’m **[@amanmagar](https://www.linkedin.com/in/asm0011/)** from Nepal
 - 👀 I’m a DevSecOps practioner very much interested in system design and cloud technologies
 - 🌱 I’m learning about different tools in DevSecOps and Agile methodologies
-- 🌱 I am a graduate on Bachelors in Computer Systems Engineering in University of Sunderland
 - 💞️ I’m looking to collaborate on different open-source technologies that interests me
 
 
