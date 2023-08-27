@@ -8,7 +8,7 @@
 
 ### :man_technologist: About Me :
 
-- 👋 Hi, I’m @amanmagar from Nepal
+- 👋 Hi, I’m **[@amanmagar](https://www.linkedin.com/in/asm0011/)** from Nepal
 - 👀 I’m a DevSecOps practioner very much interested in system design and cloud technologies
 - 🌱 I’m learning about different tools in DevSecOps and Agile methodologies
 - 🌱 I am a graduate on Bachelors in Computer Systems Engineering in University of Sunderland
@@ -55,7 +55,7 @@
 
 <div align="center">
 
-<a href="https://www.instagram.com/__a.man__/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>&nbsp;
+
 <a href="https://www.linkedin.com/in/asm0011/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>&nbsp;
 <a href="mailto:ido.aman@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </div>&nbsp; 
